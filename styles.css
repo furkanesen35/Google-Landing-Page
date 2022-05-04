@@ -9,7 +9,6 @@ body{
     white-space: nowrap;
 }
 header{
-    width: 100%;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 15px;
@@ -149,4 +148,7 @@ footer{
 .footer-right{
     float: right;
     margin-right: 25px;
+}
+button:hover{
+    cursor: pointer;
 }
